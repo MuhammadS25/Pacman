@@ -1,0 +1,46 @@
+﻿  Animation.cpp
+  Bar.cpp
+  BestScooreState.cpp
+  Button.cpp
+  DevelopersState.cpp
+  EndState.cpp
+  Game.cpp
+  GameState.cpp
+  Ghost.cpp
+C:\Users\mazen\Desktop\project-pacman-master\project-pacman-master\project\sfml_1\Ghost.cpp(111,76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mazen\Desktop\project-pacman-master\project-pacman-master\project\sfml_1\Ghost.cpp(114,80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mazen\Desktop\project-pacman-master\project-pacman-master\project\sfml_1\Ghost.cpp(117,80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mazen\Desktop\project-pacman-master\project-pacman-master\project\sfml_1\Ghost.cpp(120,81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  List.cpp
+  MainmenuState.cpp
+  Map.cpp
+C:\Users\mazen\Desktop\project-pacman-master\project-pacman-master\project\sfml_1\Map.cpp(103,51): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mazen\Desktop\project-pacman-master\project-pacman-master\project\sfml_1\Map.cpp(104,50): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  PackMan.cpp
+  PauseMenuState.cpp
+  Settings.cpp
+  settingsState.cpp
+C:\Users\mazen\Desktop\project-pacman-master\project-pacman-master\project\sfml_1\settingsState.cpp(127,10): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mazen\Desktop\project-pacman-master\project-pacman-master\project\sfml_1\settingsState.cpp(143,81): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mazen\Desktop\project-pacman-master\project-pacman-master\project\sfml_1\settingsState.cpp(216,11): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  sfml.cpp
+  state.cpp
+  Textbox.cpp
+  Generating Code...
+  sfml_1.vcxproj -> C:\Users\mazen\Desktop\project-pacman-master\project-pacman-master\project\x64\Debug\sfml_1.exe
